@@ -7,9 +7,9 @@
 
 ## Faq
 
-Q: Do you mean programmer?
+Q: Do you mean programmer? <br>
 A: No
 
-Q: Are you profissionel?
+Q: Are you profissionel? <br>
 A: Yes and nothing personel kid! (teleports behind you)
 
